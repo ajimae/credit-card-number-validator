@@ -1,0 +1,15 @@
+{
+  "name": "CreditCardNumberValidator",
+  "version": "1.0.0",
+  "description": "credit card number validator module",
+  "main": "index.js",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "test": "mocha --exit --colors tests/**/*.spec.js"
+  },
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.2"
+  }
+}
